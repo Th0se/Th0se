@@ -1,6 +1,5 @@
-- 👋 Hi, I am Thomas.
+- 👋 Hi, I am T.
 - 👀 I’m interested in web development and web design.
-- 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m not looking to collaborate at the moment.
 - 📫 I have not decided on a particular method to reach me at the moment.
 
