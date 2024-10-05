@@ -1,4 +1,4 @@
-- 👋 Hi, I am T.
+- 👋 Hi, I am Thomas.
 - 👀 I’m interested in web development and web design.
 - 💞️ I’m not looking to collaborate at the moment.
 - 📫 I have not decided on a particular method to reach me at the moment.
